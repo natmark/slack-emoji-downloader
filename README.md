@@ -1,7 +1,9 @@
 # slack-emoji-downloader
 
 ## Run
-`$node index.js`
+`$ mkdir image`
+`$ node index.js`
 
-## Settings
-`export SLACK_API_TOKEN="<api token here>"`
+## Setup
+`$ npm install`
+`$ export SLACK_API_TOKEN="<api token here>"`
